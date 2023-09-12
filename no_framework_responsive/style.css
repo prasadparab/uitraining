@@ -1,0 +1,25 @@
+.red {
+  color: #f00;
+}
+div {
+  float: left;
+  box-sizing: border-box;
+  height: 100px;
+}
+
+#div1 {
+  background-color: yellowgreen;
+  padding: 20px;
+}
+#div2 {
+  background-color: violet;
+  padding: 20px;
+}
+#div3 {
+  background-color: aquamarine;
+  padding: 20px;
+}
+#div4 {
+  background-color: coral;
+  padding: 20px;
+}
